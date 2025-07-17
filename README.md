@@ -76,7 +76,7 @@ Before running the script, ensure you have the following set up:
     git clone https://github.com/kylep5/Apex-Extractor.git
 	```
 	
-	i..
+	ii.
 	```
     cd Apex-Extractor
     ```
