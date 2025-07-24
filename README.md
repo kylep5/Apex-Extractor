@@ -4,7 +4,7 @@
 
 **Apex Extractor** is a Python script designed to help users extract their personal fitness and health data from the **ApexWear mobile application** by directly accessing its local database on compatible Android devices. It automates the process of pulling the `sport.db` file from the device via ADB and transforming key health metrics into easily consumable CSV files for custom analysis and visualization.
 
-This project showcases robust data extraction, parsing, and automation skills, providing a valuable tool for anyone looking to gain deeper insights into their health data beyond the confines of the official application by allowing them to potentially import their historical fitness metrics into other compatible applications or platforms that support CSV data imports.
+This project showcases data extraction, parsing, and automation skills, providing a valuable tool for anyone looking to gain deeper insights into their health data beyond the confines of the official application by allowing them to potentially import their historical fitness metrics into other compatible applications or platforms that support CSV data imports.
 
 ## Features
 
